@@ -3,7 +3,7 @@ package juc.c_000;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 测试同步方法和非同步方法可以一起使用的，同时一起使用可能存在的问题太
+ * 测试同步方法和非同步方法可以一起使用的，同时一起使用可能存在的问题
  */
 public class T07_Synchronized02 {
     String name;
