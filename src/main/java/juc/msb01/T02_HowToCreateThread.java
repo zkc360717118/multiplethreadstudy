@@ -1,4 +1,4 @@
-package juc.c_000;
+package juc.msb01;
 
 /**
  * 创建线程的三种方式

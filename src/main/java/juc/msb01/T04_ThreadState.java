@@ -1,4 +1,4 @@
-package juc.c_000;
+package juc.msb01;
 
 /**
  * 查看线程状态
